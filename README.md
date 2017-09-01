@@ -1,8 +1,6 @@
-## 这是一份由自己设计并开发的简历
+## 黄重庆的简历
 
-* http://resume.congm.in
 
-Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . Thx
 
 前提: 已安装`nodejs` `cnpm`
 - 0、`cnpm install`安装依赖
@@ -12,4 +10,6 @@ Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . Thx
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-![闵聪-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
+![黄重庆-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
+
+注：简历模板基于https://github.com/mcc108/resume
