@@ -1,5 +1,5 @@
 /* webpack.config.js
- * @ Cong Min
+ * @ Chongqing
  */
 var webpack = require('webpack'),
     ExtractTextPlugin = require('extract-text-webpack-plugin'),
