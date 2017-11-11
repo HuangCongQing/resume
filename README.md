@@ -13,6 +13,6 @@
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-![黄重庆-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
+![黄重庆-简历](http://upload-images.jianshu.io/upload_images/4340772-4b33991783521608.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 注：简历模板基于https://github.com/mcc108/resume
