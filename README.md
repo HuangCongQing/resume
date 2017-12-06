@@ -16,3 +16,15 @@
 ![黄重庆-简历](http://upload-images.jianshu.io/upload_images/4340772-4b33991783521608.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 注：简历模板基于https://github.com/mcc108/resume
+
+
+## errors
+
+### ERROR in Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (57)
+最近在学eggJs，只支持node V8以上的版本，然而看了下官方，目前只支持node 7及其以下版本啦！！！！
+* 
+```
+// 我目前版本
+$ node -v
+v8.9.1
+```
