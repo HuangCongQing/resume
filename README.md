@@ -21,7 +21,8 @@
 ## errors
 
 ### ERROR in Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (57)
-最近在学eggJs，只支持node V8以上的版本，所以node升级为8.X版本，运行此项目是报错了，我查了下原因，目前有的库并不支持node8.X版本，所以我安装了两个个node版本
+* 2017-12
+最近在学eggJs，只支持node V8以上的版本，所以node升级为8.X版本，运行此项目是报错了，我查了下原因，主要是：**目前有的库并不支持node8.X版本，所以我安装了两个个node版本**
 * **当运行此项目是切换到v6.10.3**！！！！
 
 
