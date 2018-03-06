@@ -13,7 +13,7 @@
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-![黄重庆-简历](./简历 _ 黄重庆 - HuangChongqing_页面_1.jpg)
+![黄重庆-简历](https://raw.githubusercontent.com/HuangCongQing/resume/18ed9c32bf317665ecd41b21a4c98b1ed233ab74/%E7%AE%80%E5%8E%86%20_%20%E9%BB%84%E9%87%8D%E5%BA%86%20-%20HuangChongqing_%E9%A1%B5%E9%9D%A2_1.jpg)
 
 注：简历模板基于https://github.com/mcc108/resume
 
