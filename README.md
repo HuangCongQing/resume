@@ -1,6 +1,6 @@
 ## 黄重庆的简历
 
-
+我又创建了一个新的分支[dev2018](https://github.com/HuangCongQing/resume/tree/dev20180307),之后再此分支上修改！！
 
 前提: 已安装`nodejs` `cnpm`
 - 0、`cnpm install`安装依赖
