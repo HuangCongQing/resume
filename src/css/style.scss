@@ -62,7 +62,7 @@ a {
 }
 .content-hd {
     width: 100%;
-    padding: 30px 50px;
+    padding: 20px 50px;
     color: #fff;
     background-color: $color-green;
     overflow: hidden;
@@ -145,6 +145,7 @@ a {
         float: right;
         text-align: right;
         padding-right: 5px;
+        padding-top: 28px;
         ul {
             margin: 8px 0 4px;
             @media screen and (max-width: 720px) {
@@ -240,7 +241,9 @@ a {
         @include border-radius(32px);
         font-size: 16px;
         text-align: center;
-        background-color: #eee;
+        // background-color: #eee;
+        background-color: #5ec8b0;
+        color: #645834;
     }
     .section-list {
         padding: 10px 0 5px;
