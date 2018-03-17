@@ -326,6 +326,17 @@ a {
             line-height: 18px;
         }
     }
+    // 个人素质
+    .quality {
+        .section-content {
+            margin-bottom: 2px;
+            line-height: 24px;
+        }
+        strong {
+            display: inline;
+            line-height: 18px;
+        }
+    }
     .practice {
         .item-time {
             width: 32%;
@@ -502,7 +513,8 @@ footer {
         width: 31%;
     }
     .content .content-bd .section-hd {
-        margin: 10px auto 8px;
+        // margin: 10px auto 8px;
+        margin: 8px auto 6px;
     }
     .content .content-bd section {
         padding: 10px 20px;
