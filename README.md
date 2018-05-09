@@ -1,6 +1,14 @@
 ## 黄重庆的简历
 
 我又创建了一个新的分支[dev2018](https://github.com/HuangCongQing/resume/tree/dev20180307),之后再此分支上修改！！
+我又创建了一个英语简历的分支[en-resume](https://github.com/HuangCongQing/resume/tree/en-resume)
+
+## 分支创建切换
+```
+git checkout -b dev2018 //分支创建并切换到dev2018
+git branch              // 列出所有分支
+git checkout dev2018    // 切换分支
+```
 
 前提: 已安装`nodejs` `cnpm`
 - 0、`cnpm install`安装依赖
