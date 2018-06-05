@@ -2,7 +2,7 @@
 
 * 【2018】我又创建了一个新的分支[dev2018](https://github.com/HuangCongQing/resume/tree/dev20180307),之后再此分支上修改！！
 * 【201805】我又创建了一个英语简历的分支[en-resume](https://github.com/HuangCongQing/resume/tree/en-resume)
-* 【20180605】我又创建了一个保研简历的分支[2018postgraduate](https://github.com/HuangCongQing/resume/tree/postgraduate)
+* 【20180605】我又创建了一个保研简历的分支[2018postgraduate](https://github.com/HuangCongQing/resume/tree/2018postgraduate)
 
 ## 分支创建切换
 ```
