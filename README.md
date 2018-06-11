@@ -1,6 +1,6 @@
 ## 黄重庆的简历
 
-[@2018postgraduate](https://github.com/HuangCongQing/resume/tree/postgraduate)
+[@2018postgraduate](https://github.com/HuangCongQing/resume/tree/2018postgraduate)
 
 前提: 已安装`nodejs` `cnpm`
 - 0、`cnpm install`安装依赖
