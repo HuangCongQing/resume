@@ -288,7 +288,7 @@ a {
         text-align: justify;
         word-break: break-all;
         line-height: 22px;
-        font-size: 13px;
+        font-size: 14px;
         .iconfont {
             color: $color-green;
         }
@@ -331,7 +331,7 @@ a {
         .section-content {
             // margin-bottom: 2px;
             // line-height: 24px;
-            margin-bottom: 2px;
+            margin-bottom: 5px;
             line-height: 24px;
         }
         strong {
@@ -516,11 +516,11 @@ footer {
     }
     .content .content-bd .section-hd {
         // margin: 10px auto 8px;
-        margin: 4px auto 6px;
+        margin: 10px auto 8px;
     }
     .content .content-bd section {
         // padding: 10px 20px;
-        padding: 4px 20px;
+        padding: 10px 20px;
     }
     .content .section-content {
         line-height: 1.75 !important;
