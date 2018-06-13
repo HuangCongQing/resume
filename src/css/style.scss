@@ -234,7 +234,7 @@ a {
     .section-title {
         position: relative;
         z-index: 1;
-        width: 24%;
+        width: 28%;
         min-width: 100px;
         margin: 0 auto;
         padding: 4px 10px;
@@ -246,12 +246,12 @@ a {
         color: #3a5c54;
     }
     .section-list {
-        padding: 10px 0 5px;
+        padding: 10px 0 8px;
     }
     .item-hd {
         position: relative;
-        padding: 10px 0 5px;
-        line-height: 20px;
+        padding: 18px 0 12px;
+        line-height: 22px;
         overflow: hidden;
         font-weight: 500;
         .iconfont {
@@ -287,8 +287,9 @@ a {
     .section-content {
         text-align: justify;
         word-break: break-all;
-        line-height: 22px;
-        font-size: 14px;
+        // line-height: 22px;
+        // font-size: 14px;
+        font-size: 12px;
         .iconfont {
             color: $color-green;
         }
@@ -331,8 +332,8 @@ a {
         .section-content {
             // margin-bottom: 2px;
             // line-height: 24px;
-            margin-bottom: 5px;
-            line-height: 24px;
+            margin-bottom: 2px;
+            line-height: 18px;
         }
         strong {
             display: inline;
@@ -516,11 +517,11 @@ footer {
     }
     .content .content-bd .section-hd {
         // margin: 10px auto 8px;
-        margin: 10px auto 8px;
+        margin: 5px auto 8px;
     }
     .content .content-bd section {
         // padding: 10px 20px;
-        padding: 10px 20px;
+        padding: 5px 20px;
     }
     .content .section-content {
         line-height: 1.75 !important;
