@@ -62,7 +62,7 @@ a {
 }
 .content-hd {
     width: 100%;
-    padding: 20px 50px;
+    padding: 12px 50px;
     color: #fff;
     background-color: $color-green;
     overflow: hidden;
@@ -350,7 +350,8 @@ a {
     }
     .prize {
         .item-hd {
-            padding: 12px 0 0;
+            padding: 0 0;
+            font-size: 12px;
         }
         .item-time {
             width: 15%;
@@ -510,7 +511,7 @@ footer {
         margin-bottom: 0;
     }
     .content .content-bd .prize .item-hd {
-        padding: 11px 0 5px;
+        padding: 6px 0 5px;
     }
     .content .content-bd .practice .item-time {
         width: 31%;
