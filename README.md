@@ -43,3 +43,6 @@ $ node -v
 v6.10.3  // 当运行此项目是切换到v6.10.3 
 
 ```
+
+![image.png](https://upload-images.jianshu.io/upload_images/4340772-ab08c851304239b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
